@@ -18,8 +18,14 @@ In this task, I built a Decision Tree Classifier to predict whether a client wil
   - Classification Report (Precision, Recall, F1-Score)
 
 ## Output
-Accuracy: 0.87 (example value)
+Accuracy: 0.8892935178441369
 Classification Report:
-              precision    recall  f1-score   support
-           0       0.90      0.95      0.93      1096
-           1       0.67      0.47      0.55       174
+               precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94     10968
+           1       0.51      0.51      0.51      1389
+
+    accuracy                           0.89     12357
+   macro avg       0.72      0.73      0.72     12357
+weighted avg       0.89      0.89      0.89     12357
+

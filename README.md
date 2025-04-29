@@ -29,3 +29,5 @@ Classification Report:
    macro avg       0.72      0.73      0.72     12357
 weighted avg       0.89      0.89      0.89     12357
 
+## Dataset
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
